@@ -58,4 +58,9 @@ ul {
 li {
        display: inline-block;
        margin-right: 1px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #8721af;
 }
